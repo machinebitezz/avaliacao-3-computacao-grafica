@@ -6,17 +6,11 @@ Trabalho consistindo na criação de uma cena 3D usando a biblioteca [ThreeJs](h
 ```bash
 git clone https://github.com/machinebitezz/avaliacao-3-computacao-grafica.git
 npm istall
-# MacOs e Linux
 npm run dev
-# Windows
-npm run dev-win
 ```
 
 ## Compilando o projeto
 
 ```bash
-# MacOs e Linux
 npm run build
-# Windows
-npm run build-win
 ```

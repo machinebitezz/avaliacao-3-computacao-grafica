@@ -5,10 +5,8 @@
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "export MODE=production && webpack",
-    "dev": "export MODE=development && webpack serve",
-    "build-win": "$env:MODE=\"production\" & webpack",
-    "dev-win": "$env:MODE=\"development\" & webpack serve"
+    "build": "export MODE=production & webpack",
+    "dev": "export MODE=development & webpack serve"
   },
   "keywords": [],
   "author": "",

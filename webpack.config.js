@@ -1,8 +1,8 @@
-const path = require('path');
+const path = require('path')
 
 module.exports = {
   entry: './src/index.js',
-  mode: process.env.MODE,
+  mode: process.env.MODE || "development",
   output: {
     filename: 'main.js',
     path: path.resolve(__dirname, 'dist'),
@@ -13,5 +13,8 @@ module.exports = {
     },
     compress: true,
     port: 9000
+  },
+  performance: {
+    hints: false
   }
 }
