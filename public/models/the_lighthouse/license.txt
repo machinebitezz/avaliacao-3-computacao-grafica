@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Lighthouse
+* source:	https://sketchfab.com/3d-models/the-lighthouse-1a85945dd2a840f594bf6cb003176a54
+* author:	cotman sam (https://sketchfab.com/cotman_sam)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Lighthouse" (https://sketchfab.com/3d-models/the-lighthouse-1a85945dd2a840f594bf6cb003176a54) by cotman sam (https://sketchfab.com/cotman_sam) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

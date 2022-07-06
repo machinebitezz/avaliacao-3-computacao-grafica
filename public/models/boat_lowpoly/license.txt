@@ -1,0 +1,11 @@
+Model Information:
+* title:	Boat lowpoly
+* source:	https://sketchfab.com/3d-models/boat-lowpoly-7d9569d4f7f74e6aa2674e6c53c8c618
+* author:	RacKrab (https://sketchfab.com/RacKrab)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Boat lowpoly" (https://sketchfab.com/3d-models/boat-lowpoly-7d9569d4f7f74e6aa2674e6c53c8c618) by RacKrab (https://sketchfab.com/RacKrab) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
