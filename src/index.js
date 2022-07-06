@@ -23,6 +23,9 @@ light.position.z = 5
 scene.add(light)
 scene.add(helper)
 
+const ambient = new THREE.AmbientLight(0x333333)
+scene.add(ambient)
+
 let shiba
 modelLoader.load('./models/shiba/scene.gltf', gltf => {
   shiba = gltf.scene
