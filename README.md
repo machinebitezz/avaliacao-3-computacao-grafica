@@ -1,6 +1,9 @@
 # Terceira Avaliação - Computação Gráfica
-Trabalho consistindo na criação de uma cena 3D usando a biblioteca [ThreeJs](https://github.com/mrdoob/three.js/), a cena deve possuir animações, sombras, luzes e modelos 3D importados.
+Trabalho consistindo na criação de uma cena 3D usando a biblioteca [ThreeJs](https://github.com/mrdoob/three.js/), a cena deve possuir animações, sombras, luzes e modelos 3D importados. [Link do vídeo](https://youtu.be/dPaG7FxuYEk)
 
+
+Gustavo Rodrigues - 201904940005
+Lívia Carrera - 201904940008
 ## Rodando o projeto localmente
 
 ```bash
