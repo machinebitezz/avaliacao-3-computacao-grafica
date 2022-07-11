@@ -3,6 +3,7 @@ Trabalho consistindo na criação de uma cena 3D usando a biblioteca [ThreeJs](h
 
 
 Gustavo Rodrigues - 201904940005
+
 Lívia Carrera - 201904940008
 ## Rodando o projeto localmente
 
